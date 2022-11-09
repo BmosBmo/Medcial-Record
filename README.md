@@ -1,2 +1,2 @@
 # Medcial-Record
-Java Medical Record
+C++ Medical Record
